@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evelyngbaranski
-- 🌱 I’m currently learning finance and business analytics
+- 🌱 Finance and data analytics
 - 📫 How to reach me:  evelynb@bu.edu
 
 <!---
